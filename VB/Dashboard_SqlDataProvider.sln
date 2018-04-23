@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dashboard_SqlDataProvider", "Dashboard_DashboardDataProviders\Dashboard_SqlDataProvider.vbproj", "{333A265E-526C-47F4-A483-613422058BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{333A265E-526C-47F4-A483-613422058BAE}.Debug|x86.ActiveCfg = Debug|x86
+		{333A265E-526C-47F4-A483-613422058BAE}.Debug|x86.Build.0 = Debug|x86
+		{333A265E-526C-47F4-A483-613422058BAE}.Release|x86.ActiveCfg = Release|x86
+		{333A265E-526C-47F4-A483-613422058BAE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
