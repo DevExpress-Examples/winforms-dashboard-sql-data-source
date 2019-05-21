@@ -1,17 +1,17 @@
 ﻿using DevExpress.DashboardCommon;
 using DevExpress.DataAccess.ConnectionParameters;
 using DevExpress.DataAccess.Sql;
-using DevExpress.XtraBars.Ribbon;
 
 namespace Dashboard_SqlDataProvider {
-    public partial class Form1 : RibbonForm {
+    public partial class Form1 : DevExpress.XtraEditors.XtraForm
+    {
         public Form1() {
             InitializeComponent();
             dashboardDesigner1.CreateRibbon();
 
             #region #SQLDataSource
             Access97ConnectionParameters access97Params = new Access97ConnectionParameters();
-            access97Params.FileName = @"..\..\Data\nwind.mdb";
+            access97Params.FileName = @"Data\nwind.mdb";
 
             DashboardSqlDataSource sqlDataSource = 
                 new DashboardSqlDataSource("SQL Data Source 1", access97Params);
