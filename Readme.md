@@ -3,10 +3,10 @@
 
 * [Form1.cs](./CS/Dashboard_DashboardDataProviders/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_DashboardDataProviders/Form1.vb))
 <!-- default file list end -->
-# How to Use the DashboardSqlDataSource to Bind a Dashboard to MS Access Database
+# How to Bind a Dashboard to SQL Data Source
 
 
-This example demonstrates how to bind a dashboard to a MS Access database using the [DashboardSqlDataSource ](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardSqlDataSource) instance.
+This example demonstrates how to bind a dashboard to a Microsoft Access database (MS SQL Server, XML file) with the [DashboardSqlDataSource ](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardSqlDataSource) instance.
 
 ![screenshot](images/screenshot.png)
 
