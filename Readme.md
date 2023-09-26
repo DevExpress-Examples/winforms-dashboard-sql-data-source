@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E5107)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Dashboard for WinForms - How to Bind a Dashboard to an SQL Data Source at runtime
+# Dashboard for WinForms - How to Bind a Dashboard to an SQL Data Source at Runtime
 
 This example shows how to bind a dashboard to a Microsoft Access database (MS SQL Server, XML file). For this, create a [DashboardSqlDataSource](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardSqlDataSource) instance and specify connection parameters.
 
